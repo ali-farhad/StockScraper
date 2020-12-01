@@ -1,6 +1,7 @@
-# webscraping-explodingtopics.com
 
-This repo holds web scraping project   that I did on https://www.explodingtopics.com
+# webscraping-stockscraper
+
+This repo holds web scraping project   that I did on https://www.investing.com/
 
 The following technologies were used in this project:
 
@@ -9,6 +10,8 @@ The following technologies were used in this project:
  3. Google Spreadsheets
  
  **Purpose:**
- we are webscraping all the trending words for the word, and then storing them in google spreadsheet programmatically. you can check this sheet [here](https://docs.google.com/spreadsheets/d/1IFm6KIGi6Pt96uMB3L7lrRjq-cRzzxg-q8RRGMIg8aI/edit#gid=0)
+ In this project, we scrap stock data from investing.com for 3 companies i.e. Amazon, Apple & Tesla. This scraped data is then stored directly on google sheet using google spreadsheets pacakge you can check visit this google sheet [here](https://docs.google.com/spreadsheets/d/17e0mRz7Ohhppj8Ho6Ou8vfQcg_cpjP-CqudidQK_rSY/edit#gid=0)
+ 
+**Pictures:**
 
-However, you may get the most updated results, by running this project locally again. 
+![sample](https://photos.app.goo.gl/PPRRLvKL7YG3e3vt7)
