@@ -12,6 +12,3 @@ The following technologies were used in this project:
  **Purpose:**
  In this project, we scrap stock data from investing.com for 3 companies i.e. Amazon, Apple & Tesla. This scraped data is then stored directly on google sheet using google spreadsheets pacakge you can check visit this google sheet [here](https://docs.google.com/spreadsheets/d/17e0mRz7Ohhppj8Ho6Ou8vfQcg_cpjP-CqudidQK_rSY/edit#gid=0)
  
-**Pictures:**
-
-![sample](https://photos.app.goo.gl/PPRRLvKL7YG3e3vt7)
