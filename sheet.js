@@ -5,7 +5,7 @@ module.exports = class Sheet {
 
     constructor() {
 
-        this.doc = new GoogleSpreadsheet('17e0mRz7Ohhppj8Ho6Ou8vfQcg_cpjP-CqudidQK_rSY');
+        this.doc = new GoogleSpreadsheet('xxxxx-Enter-your-own-api-here-xxxx');
 
     }
 
